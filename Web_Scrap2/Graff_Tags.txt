@@ -1,0 +1,15 @@
+Link:https://www.graff.com/international-en/engagement-bridal/engagement/engagement-rings/
+
+Engagement&Bridal:
+<a class="b-header-menu__link js-header-menu__link m-mobile-hover" href="https://www.graff.com/international-en/engagement-bridal.html" aria-haspopup="true" style="animation-delay: 0.06s;">
+                    <span class="b-header-menu__link-text">Engagement &amp; Bridal</span>
+                    <span class="b-icon b-icon--chevron-right" aria-hidden="true"></span>
+                </a>
+
+All List :
+body > div.l-page.js-page > header > div.b-header__wrap.js-header__wrap > div > div.b-header__top-menu-slot > nav > ul.b-header-menu__list.js-header-menu-list > li:nth-child(4) > div > div > div > ul > div > div.l-grid__col-2-sm.l-grid__col-12-l2.b-header-dropdownmenu__list__item.b-header-dropdownmenu__vertical_list > div:nth-child(1) > div > div > div > div
+
+then ul and ui
+
+
+all meta data;
